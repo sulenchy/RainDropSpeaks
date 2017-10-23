@@ -1,0 +1,30 @@
+{
+  "name": "raindropspeaks",
+  "version": "1.0.0",
+  "description": "Rain drop speaks function ",
+  "main": "src/main.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulenchy/RainDropSpeaks.git"
+  },
+  "keywords": [
+    "TDD",
+    "Javascript"
+  ],
+  "author": "Sulenchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sulenchy/RainDropSpeaks/issues"
+  },
+  "homepage": "https://github.com/sulenchy/RainDropSpeaks#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
