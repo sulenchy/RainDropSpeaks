@@ -1,4 +1,4 @@
-'use script';
+'use strict'
 
 // exports the rainDropSpeak function
 module.exports = {
